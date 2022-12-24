@@ -24,7 +24,6 @@ I am a Frontend Developer from Spain.
 ---
 
 ### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=katiaku&theme=modern-lilac&hide_border=true&border_radius=4.8&background=FFFFFF)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=katiaku&theme=modern-lilac&border_radius=4.8&background=FFFFFF)](https://git.io/streak-stats)
 
 <img src="https://komarev.com/ghpvc/?username=katiaku&style=flat-square&color=blue" alt=""/>
