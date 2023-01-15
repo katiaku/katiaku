@@ -4,7 +4,7 @@
 
 ### :woman_technologist: About Me :
 
-I am a Frontend Developer based in Spain. <br>
+I am a Frontend Developer from Spain. <br>
 Please feel free to fork projects and raise issues if you think there's something to be improved!
 
 ---
