@@ -42,7 +42,3 @@ Please feel free to fork projects and raise issues if you think there's somethin
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=katiaku&theme=vue&background=FFFFFF&border=FFFFFF&stroke=FFFFFF&fire=DD2727)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=katiaku&color=green)
-
----
-
-<span>Foto de RealToughCandy.com: https://www.pexels.com/es-es/foto/mano-sujetando-papel-mensaje-11035544/</span>
