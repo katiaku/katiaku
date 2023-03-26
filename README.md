@@ -1,4 +1,4 @@
-### 👋 Hi there!
+### 👋 Hi there, welcome to my GitHub profile!
 
 ---
 
@@ -42,6 +42,5 @@ Please feel free to fork projects and raise issues if you think there's somethin
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=katiaku&theme=vue&background=FFFFFF&border=FFFFFF&stroke=FFFFFF&fire=DD2727)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=katiaku&color=green)
