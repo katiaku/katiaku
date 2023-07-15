@@ -4,7 +4,7 @@
 
 ### :woman_technologist: About Me :
 
-I am a Front-end Developer from Spain. <br>
+I am a Full Stack Developer from Spain. <br>
 Please feel free to fork projects and raise issues if you think there's something to be improved!
 
 ---
