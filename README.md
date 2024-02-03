@@ -6,8 +6,8 @@
 
 I am a Full Stack Developer from Spain. <br>
 Please feel free to fork projects and raise issues if you think there's something to be improved! <br>
-[My CV](https://github.com/katiaku/katiaku/blob/main/Ekaterina_Kushnir_CV_EN.pdf)
-
+[Check My CV!](https://github.com/katiaku/katiaku/blob/main/Ekaterina_Kushnir_CV_EN.pdf) <br>
+[¡Mi curriculum está aquí!](https://github.com/katiaku/katiaku/blob/main/Ekaterina_Kushnir_CV_ES.pdf)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
