@@ -5,7 +5,8 @@
 ### :woman_technologist: About Me :
 
 I am a Full Stack Developer from Spain. <br>
-Please feel free to fork projects and raise issues if you think there's something to be improved!
+Please feel free to fork projects and raise issues if you think there's something to be improved! <br>
+[My CV](https://github.com/katiaku/katiaku/blob/main/Ekaterina_Kushnir_CV_EN.pdf)
 
 ---
 
