@@ -6,7 +6,7 @@
 
 #### I am a Full Stack Developer from Spain. <br>
 #### Please feel free to fork projects and raise issues if you think there's something to be improved! <br>
-#### [Check My CV!](https://github.com/katiaku/katiaku/blob/main/Ekaterina_Kushnir_CV_EN.pdf) <br>
+#### [Check My CV!](https://github.com/katiaku/katiaku/blob/main/Ekaterina_Kushnir_Mikhaylova_CV_EN.pdf) <br>
 #### [¡Mi curriculum está aquí!](https://github.com/katiaku/katiaku/blob/main/Ekaterina_Kushnir_CV_ES.pdf)
 ---
 
