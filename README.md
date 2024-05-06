@@ -1,5 +1,7 @@
 <img src="https://www.ip-performance.co.uk/wp-content/uploads/2020/08/ken-suarez-4IxPVkFGJGI-unsplash-cropped-v2-scaled.jpg" title="HTML5" alt="HTML" width="100%" height="100%"/>&nbsp;
-### 👋 Hi there, welcome to my GitHub profile!
+###
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=200&color=4493F8&random=false&width=435&lines=%F0%9F%91%8B+Hi+there%2C;welcome+to+my+GitHub+Universe!)](https://git.io/typing-svg)
 
 ---
 
@@ -79,4 +81,6 @@
 
 ### :fire: My Stats :
 
-![](https://komarev.com/ghpvc/?username=katiaku&color=green)
+![](https://komarev.com/ghpvc/?username=katiaku&style=for-the-badge&color=blueviolet)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=katiaku&theme=tokyonight&hide_border=true&border_radius=0)](https://git.io/streak-stats)
