@@ -7,9 +7,13 @@
 
 ### :woman_technologist: About Me :
 
-#### I am a Full Stack Developer from Spain. <br>
-#### Please feel free to fork projects and raise issues if you think there's something to be improved! <br>
-#### [Check My CV!](https://github.com/katiaku/katiaku/blob/main/Ekaterina_Kushnir_CV_EN.pdf) <br>
+#### I am a problem solving Full Stack Developer based in Northern Spain. My goal is to make the world just a little bit better by creating modern, intuitive and sensory pleasing web apps.
+#### Driven by my natural curiosity and love for technology, I started coding with Visual Basic as a kid and finally converted my lifelong hobby into profession after the pandemic.
+#### Fav subjects: everything in and around React and Vue ecosystems.
+#### Random fact: feel free speaking with me English | Spanish | Russian | Japanese
+#### If I'm not coding you can find me long-distance running or preparing matcha.
+#### Currently looking for a new remote role as Frontend / Full Stack Engineer. 
+#### [Check Out My CV!](https://github.com/katiaku/katiaku/blob/main/Ekaterina_Kushnir_CV_EN.pdf)
 #### [¡Mi curriculum está aquí!](https://github.com/katiaku/katiaku/blob/main/Ekaterina_Kushnir_CV_ES.pdf)
 ---
 
@@ -86,3 +90,5 @@
 ![](https://komarev.com/ghpvc/?username=katiaku&style=for-the-badge&color=blueviolet)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=katiaku&theme=tokyonight&hide_border=true&border_radius=0)](https://git.io/streak-stats)
+
+#### Please feel free to fork projects and raise issues if you think there's something to be improved!
