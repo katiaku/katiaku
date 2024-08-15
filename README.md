@@ -7,10 +7,10 @@
 
 ### :woman_technologist: Why Me?
 
-#### I am a problem solving Full Stack Developer based in Northern Spain 🏄‍♀️. My goal is to make the world just a little bit better by creating modern, intuitive and sensory pleasing web apps ✨.
-#### Driven by my natural curiosity and love for technology 🤖, I started coding with Visual Basic as a kid and finally converted my lifelong hobby into profession after COVID pandemic.
+#### I am a problem solving Full Stack Developer based in Northern Spain 🏄‍♀️. My goal is to make the world just a little bit better by creating modern, intuitive and sensory pleasing web and mobile apps ✨.
+#### Driven by my natural curiosity and love for technology 🤖, I started coding with Visual Basic and HTML as a kid and finally converted my lifelong hobby into profession after COVID pandemic.
 #### Fav subjects: everything in and around React and Vue ecosystems, Node.js and npm, history of computers and programming.
-#### Random fact: feel free speaking to me in English | Spanish | Russian | Japanese
+#### Random fact: feel free speaking to me in English | Español | Pусский | 日本語.
 #### If I'm not coding you can find me long-distance running🏃‍♀️ or preparing matcha🍵.
 #### Currently looking for a new remote role as Frontend / Full Stack Developer. 
 #### 🇬🇧 ➡️ [Check Out My CV!](https://github.com/katiaku/katiaku/blob/main/Ekaterina_Kushnir_CV_EN.pdf)
