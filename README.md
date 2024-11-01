@@ -12,7 +12,7 @@
 #### Fav subjects: everything in and around React, React Native and Vue ecosystems, Node.js and npm, history of computers and programming.
 #### Random fact: feel free speaking to me in English | Español | Pусский | 日本語.
 #### If I'm not coding you can find me long-distance running🏃‍♀️ or preparing matcha🍵.
-#### Currently looking for a new remote role as Frontend / Full Stack Developer. 
+#### Currently looking for a new remote role as Frontend Developer (React, Vue) / Mobile Developer (React Native). 
 #### 🇬🇧 ➡️ [Check Out My CV!](https://github.com/katiaku/katiaku/blob/main/Ekaterina_Kushnir_CV_EN.pdf)
 #### 🇪🇸 ➡️ [¡Mi curriculum está aquí!](https://github.com/katiaku/katiaku/blob/main/Ekaterina_Kushnir_CV_ES.pdf)
 ---
