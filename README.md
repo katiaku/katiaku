@@ -90,7 +90,7 @@
 
 ![](https://komarev.com/ghpvc/?username=katiaku&style=for-the-badge&color=blueviolet)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=katiaku&theme=tokyonight&hide_border=true&border_radius=0)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=katiaku&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 #### Please feel free to fork projects and raise issues if you think there's something to be improved!
 #### I love connecting with different people, so if you want to say 'hi', I'll be happy to chat! 😄
