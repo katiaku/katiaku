@@ -7,12 +7,12 @@
 
 ### :woman_technologist: Why Me?
 
-#### I am a problem solving Full Stack Developer based in Northern Spain 🏄‍♀️. My goal is to make the world just a little bit better by creating modern, intuitive and sensory pleasing web and mobile apps ✨.
+#### I am a problem solving Frontend Developer based in Northern Spain 🏄‍♀️. My goal is to make the world just a little bit better by creating modern, intuitive and sensory pleasing web and mobile apps ✨.
 #### Driven by my natural curiosity and love for technology 🤖, I started coding with Visual Basic and HTML as a kid and finally converted my lifelong hobby into profession after COVID pandemic.
-#### Fav subjects: everything in and around React, React Native and Vue ecosystems, Node.js and npm, history of computers and programming.
+#### Fav subjects: everything in and around React, React Native and Next.js ecosystems, Node.js and npm, history of computers and programming.
 #### Random fact: feel free speaking to me in English | Español | Pусский | 日本語.
 #### If I'm not coding you can find me long-distance running🏃‍♀️ or preparing matcha🍵.
-#### Currently looking for a new remote role as Frontend Developer (React, Vue) / Mobile Developer (React Native). 
+#### Currently looking for a new remote role as Frontend Developer (React, Next.js) / Mobile Developer (React Native). 
 #### 🇬🇧 ➡️ [Check Out My CV!](https://github.com/katiaku/katiaku/blob/main/Ekaterina_Kushnir_CV_EN.pdf)
 #### 🇪🇸 ➡️ [¡Mi curriculum está aquí!](https://github.com/katiaku/katiaku/blob/main/Ekaterina_Kushnir_CV_ES.pdf)
 ---
@@ -31,7 +31,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" **alt="TypeScript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" **alt="React" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React Native" **alt="React Native" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" **alt="Angular" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Next.js" **alt="Next.js" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" **alt="Vue" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/framermotion/framermotion-original.svg" title="Framer Motion" alt="Framer Motion" width="40" height="40"/>&nbsp;
   </div>
@@ -40,8 +40,6 @@
     <h4>Back</h4>
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" **alt="PHP" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/cakephp/cakephp-original.svg" title="CakePHP" **alt="CakePHP" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
   </div>
@@ -78,8 +76,6 @@
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" **alt="Redux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Next.js" **alt="Next.js" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" title="Nuxt.js" **alt="Nuxt.js" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original-wordmark.svg" title="Three.js" alt="Three.js" width="40" height="40"/>&nbsp;
   <img src="https://github.com/onemarc/tech-icons/blob/main/icons/gsap.svg" title="GSAP" alt="GSAP" width="40" height="40"/>&nbsp;
 </div>
@@ -89,8 +85,6 @@
 ### :fire: My Stats :
 
 ![](https://komarev.com/ghpvc/?username=katiaku&style=for-the-badge&color=blueviolet)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=katiaku&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 #### Please feel free to fork projects and raise issues if you think there's something to be improved!
 #### I love connecting with different people, so if you want to say 'hi', I'll be happy to chat! 😄
