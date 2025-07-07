@@ -55,6 +55,7 @@
     <h4>Testing</h4>
       <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
       <img src="https://github.com/cypress-io/cypress-icons/blob/master/src/icons/icon_256x256.png" title="Cypress" alt="Cypress" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
   </div>
 
   <div>
