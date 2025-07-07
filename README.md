@@ -8,7 +8,7 @@
 ### :woman_technologist: Why Me?
 
 #### I am a problem solving Frontend Developer based in Northern Spain 🏄‍♀️. My goal is to make the world just a little bit better by creating modern, intuitive and sensory pleasing web and mobile apps ✨.
-#### Driven by my natural curiosity and love for technology 🤖, I started coding with Visual Basic and HTML as a kid and finally converted my lifelong hobby into profession after COVID pandemic.
+#### Driven by my natural curiosity and love for technology 🤖, I started coding with Visual Basic and HTML as a kid, went on with SPSS and R while getting my degree in Sociology, and finally converted my lifelong hobby into full-time profession after COVID pandemic.
 #### Fav subjects: everything in and around React, React Native and Next.js ecosystems, Node.js and npm, history of computers and programming.
 #### Random fact: feel free speaking to me in English | Español | Pусский | 日本語.
 #### If I'm not coding you can find me long-distance running🏃‍♀️ or preparing matcha🍵.
