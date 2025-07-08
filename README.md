@@ -1,4 +1,4 @@
-<img src="https://www.ip-performance.co.uk/wp-content/uploads/2020/08/ken-suarez-4IxPVkFGJGI-unsplash-cropped-v2-scaled.jpg" title="HTML5" alt="HTML" width="100%" height="100%"/>&nbsp;
+<img src="https://www.ip-performance.co.uk/wp-content/uploads/2020/08/ken-suarez-4IxPVkFGJGI-unsplash-cropped-v2-scaled.jpg" title="HTML5" alt="HTML" width="100%"/>&nbsp;
 ###
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=200&color=4493F8&random=false&width=435&lines=%F0%9F%91%8B+Hi+there%2C;welcome+to+my+GitHub+Universe!)](https://git.io/typing-svg)
