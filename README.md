@@ -9,12 +9,10 @@
 
 #### I am a problem solving Frontend Developer based in Northern Spain 🏄‍♀️. My goal is to make the world just a little bit better by creating modern, intuitive and sensory pleasing web and mobile apps ✨.
 #### Driven by my natural curiosity and love for technology 🤖, I started coding with Visual Basic and HTML as a kid, went on with SPSS and R while getting my degree in Sociology, and finally converted my lifelong hobby into full-time profession after COVID pandemic.
-#### Fav subjects: everything in and around React, React Native and Next.js ecosystems, Node.js and npm, history of computers and programming.
+#### Fav subjects: everything in and around JavaScript frontend libraries and frameworks, CSS, cybersecurity and history of computers and programming.
 #### Random fact: feel free speaking to me in English | Español | Pусский | 日本語.
 #### If I'm not coding you can find me long-distance running🏃‍♀️ or preparing matcha🍵.
- 
-#### 🇬🇧 ➡️ [Check Out My CV!](https://github.com/katiaku/katiaku/blob/main/Ekaterina_Kushnir_CV_EN.pdf)
-#### 🇪🇸 ➡️ [¡Mi curriculum está aquí!](https://github.com/katiaku/katiaku/blob/main/Ekaterina_Kushnir_CV_ES.pdf)
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
