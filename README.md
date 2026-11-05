@@ -2,13 +2,15 @@
 
 ---
 
-### :woman_technologist: Why Me?
+Hi, I’m a Web Developer based in Northern Spain 🏄‍♀️
 
-#### I am a problem solving Frontend Developer based in Northern Spain 🏄‍♀️. My goal is to make the world just a little bit better by creating modern, intuitive and sensory pleasing apps ✨.
-#### Driven by my natural curiosity and love for technology 🤖, I started coding with Visual Basic and HTML as a kid, went on with SPSS and R while getting my degree in Sociology, and finally converted my lifelong hobby into full-time profession after COVID pandemic.
-#### Fav subjects: everything in and around JavaScript frontend libraries and frameworks, CSS, cybersecurity and history of computers and programming.
-#### Random fact: feel free speaking to me in English | Español | Pусский | 日本語.
-#### If I'm not coding you can find me long-distance running🏃‍♀️ or preparing matcha🍵.
+I love solving problems, and want to make the world a little better by building apps that are modern, intuitive and a pleasure to use.
+
+How I got here. Curiosity and a love of technology have always pushed me forward. I wrote my first lines of Visual Basic and HTML as a kid. Later I worked with SPSS and R while studying for my degree in Sociology. After the COVID pandemic, I turned my lifelong hobby into a full-time career.
+
+When I’m not coding, I’m out on a long-distance run 🏃‍♀️ or making a bowl of matcha 🍵
+
+Let’s talk in English · Español · Русский · 日本語 🌍
 
 ---
 
@@ -27,8 +29,8 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/reactnative/reactnative-original-wordmark.svg" title="React Native" **alt="React Native" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" **alt="Next.js" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/astro/astro-original.svg" title="Astro" alt="Astro" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" title="Svelte" alt="Svelte" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" **alt="Redux" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/framermotion/framermotion-original.svg" title="Framer Motion" alt="Framer Motion" width="40" height="40"/>&nbsp;
   </div>
   
   <div>
@@ -53,22 +55,12 @@
 
   <div>
     <h4>Others</h4>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" title="Storybook" alt="Storybook" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" **alt="Jira" width="40" height="40"/>&nbsp;
   </div>
-</div>
-
----
-
-### :open_book: Currently Learning :
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" title="Three.js" alt="Three.js" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/gsap.svg" title="GSAP" alt="GSAP" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" title="Svelte" alt="Svelte" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
 </div>
   
 ---
